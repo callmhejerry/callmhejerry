@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently learning javascript and solidity 😊<br>How to reach me : instagram (@jerressy),twitter(@jerressy)🤗
+Senior Mobile Engineer with 5+ years of experience building production-grade Flutter applications. Expert in Clean Architecture and BLoC pattern, specializing in building secure, scalable, and testable mobile solutions. 😊<br>How to reach me : instagram (@jerressy),twitter(@jerressy)🤗
 
 
 ## 🌐 Socials:

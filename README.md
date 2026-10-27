@@ -1,5 +1,10 @@
 # 💫 About Me:
-Senior Mobile Engineer with 5+ years of experience building production-grade Flutter applications. Expert in Clean Architecture and BLoC pattern, specializing in building secure, scalable, and testable mobile solutions. 😊<br>How to reach me : instagram (@jerressy),twitter(@jerressy)🤗
+Software Engineer | 5+ years shipping production Flutter apps | Now focused on backend systems with Go
+
+Built and shipped real products in fintech, food delivery, and telemedicine. Currently deepening expertise in Golang — building APIs, services, and production-grade systems.
+
+Open to remote Golang / backend internships and junior roles.
+Email: chinedujeremiah2002@gmail.com
 
 
 # 💻 Tech Stack:
